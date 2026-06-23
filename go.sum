@@ -1,4 +1,4 @@
-github.com/tinywasm/binary v0.5.14 h1:S/X/M1zylIC90lL9Dua4+/YceSb234xavPzejrn1gh8=
-github.com/tinywasm/binary v0.5.14/go.mod h1:KsVadXWJYsqY/3fpCRI4fALyM88sGU3Hhv/YF8m9qrM=
-github.com/tinywasm/fmt v0.24.3 h1:Cac/4+vXJ7tP9XSYaD959aEmN1YMOC58VtzyeL6ELdo=
-github.com/tinywasm/fmt v0.24.3/go.mod h1:L2GCAi6asgytPV6TVvGrRq5Ml+DkUt1Ijo5i/2J1jOY=
+github.com/tinywasm/binary v0.5.15 h1:+MtYz3Oe8ldlDG2UvDmpH4dfswlwWRsoWbwBTPSFMcE=
+github.com/tinywasm/binary v0.5.15/go.mod h1:/y1JvikTTfBbnoW/kX0djyFP81KyS46AiwrljmnuR7s=
+github.com/tinywasm/fmt v0.24.5-0.20260623154531-ab6aa6c42456 h1:udtDwM8yEIdSL++8Flsl6ynQAxBKdlY26dx5YLiVP6U=
+github.com/tinywasm/fmt v0.24.5-0.20260623154531-ab6aa6c42456/go.mod h1:L2GCAi6asgytPV6TVvGrRq5Ml+DkUt1Ijo5i/2J1jOY=
