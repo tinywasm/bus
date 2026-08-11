@@ -6,5 +6,5 @@ require github.com/tinywasm/binary v0.5.17
 
 require (
 	github.com/tinywasm/fmt v0.25.5 // indirect
-	github.com/tinywasm/model v0.1.3 // indirect
+	github.com/tinywasm/model v0.1.4 // indirect
 )
